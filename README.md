@@ -8,26 +8,7 @@ and designing secure, scalable systems.
 
 ### Projects
 
-#### Obsidian (Hackathon Project)
-Privacy-preserving token launchpad on Solana.
-- Encrypted bidding & fair allocation
-- Built with *Rust, Anchor, Solana*
-- Confidential computing using *Arcium TEE*
-- AI-assisted participant validation
-
-#### Likeyou AI
-AI-powered matchmaking platform.
-- Prompt-based matching using AI reasoning
-- Built with *Gemini API*
-- Focused on intelligent personalization
-
-#### AI Agents (In Progress)
-Modular AI agents for automation:
-- Social media management
-- Discord moderation (tickets, spam control, auto-replies)
-- Trading automation 
-- Code assistance for frontend & backend workflows
-
+Check out my full portfolio and live projects at **[imusemichaeldev.vercel.app](https://imusemichaeldev.vercel.app/)**
 
 ### Tech Stack
 
