@@ -1,43 +1,35 @@
-## Hi, I’m Micheal
+## Hi, I’m Imuse Michael
 
-I’m an *AI and software developer* building systems focused on
-*automation, blockchain, and emerging technologies*.
+I’m a full-stack engineer building AI-powered web applications, backend services, automation workflows, and integrations from idea to deployment.
 
-I enjoy turning ideas into working products, experimenting with AI agents,
-and designing secure, scalable systems.
+I enjoy turning practical product problems into reliable systems: responsive interfaces, APIs, databases, retrieval-backed features, messaging workflows, and the operational pieces that let them run.
 
-### Projects
+### Portfolio
 
-Check out my full portfolio and live projects at **[imusemichaeldev.vercel.app](https://imusemichaeldev.vercel.app/)**
+See selected work at [imusemichaeldev.vercel.app](https://imusemichaeldev.vercel.app/).
 
-### Tech Stack
+### Working stack
 
-**Languages & Frameworks:**
-- **Python** (AI agents, automation)
-- **JavaScript / TypeScript** (frontend & backend)
-- **Rust** (Solana smart contracts)
+**Core development**
 
-**Frontend Development:**
-- **Next.js** (React framework for professional web apps)
-- **Tailwind CSS** (modern styling)
-- **Vercel / Deployment Tools** (live hosting)
-- **React Libraries** (state management, UI components)
+- Python, TypeScript, Next.js, React, Node.js, FastAPI
+- REST APIs, WebSockets, API integrations
 
-**Backend & APIs:**
-- **Node.js / Express.js**
-- **REST & GraphQL APIs**
-- **FastAPI**
-- **API integrations**
+**Data and backend systems**
 
-**Blockchain & Web3:**
-- **Solana**, **Anchor Framework**, **Smart Contracts**
-- **Web3 integration & secure transactions**
+- PostgreSQL, Redis, SQLite
+- Queues, background jobs, and service integrations
 
-**Automation & AI:**
-- **AI agents** for social media, trading, moderation, coding
-- **Workflow automation & system orchestration**
+**AI and automation**
 
-**Other Tools & Skills:**
-- **Git & GitHub** workflows
-- **CI/CD** pipelines
-- **API integration & microservices**
+- LLM APIs, LangChain, RAG, ChromaDB
+- Discord bots, Telegram bots, Twilio, and workflow automation
+
+**Delivery and operations**
+
+- Docker, CI/CD pipelines, VPS deployment, cloud hosting
+- Git and GitHub workflows
+
+### Open to work
+
+I’m open to freelance collaborations and full-time product engineering roles.
