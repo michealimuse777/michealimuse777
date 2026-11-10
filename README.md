@@ -25,8 +25,10 @@ See selected work at [imusemichaeldev.vercel.app](https://imusemichaeldev.vercel
 - LLM APIs, LangChain, RAG, ChromaDB
 - Discord bots, Telegram bots, Twilio, and workflow automation
 
-**Delivery and operations**
+**Security and operations**
 
+- OWASP Top 10 practices, authentication and authorization, API security
+- Cryptographic fundamentals, secure key handling, and server hardening
 - Docker, CI/CD pipelines, VPS deployment, cloud hosting
 - Git and GitHub workflows
 
